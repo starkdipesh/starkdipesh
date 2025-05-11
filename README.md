@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm passionate about programming, AI/ML, and creat
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/dipesh-patel-10aa4b2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](mailto:dp7440646225@gmail.com)
 
 ---
 
